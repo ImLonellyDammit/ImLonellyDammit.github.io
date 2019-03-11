@@ -1,0 +1,30 @@
+
+{
+
+    "name": "Bootstrap Template",
+  
+    "short_name": "BT",
+  
+    "description": "Template para Mobile.",
+  
+    "start_url": "/Bootstrap%20Full%20Page/index.php",
+  
+    "display": "standalone",
+
+    "orientation":"portrait",
+  
+    "background_color": "#0f4a73",
+  
+    "theme_color": "#FFFFFF",
+  
+    "icons": [{
+  
+      "src": "/Bootstrap%20Full%20Page/IMG/teamwork.png",
+  
+      "sizes": "256x256",
+  
+      "type": "image/png"
+  
+    }]
+  
+  }
