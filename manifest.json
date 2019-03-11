@@ -7,7 +7,7 @@
   
     "description": "Template para Mobile.",
   
-    "start_url": "/Bootstrap%20Full%20Page/index.php",
+    "start_url": "index.php",
   
     "display": "standalone",
 
@@ -19,7 +19,7 @@
   
     "icons": [{
   
-      "src": "/Bootstrap%20Full%20Page/IMG/teamwork.png",
+      "src": "IMG/teamwork.png",
   
       "sizes": "256x256",
   
